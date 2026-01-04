@@ -22,11 +22,12 @@ export default function Home() {
           Software Engineer • GenAI Developer
         </h2>
 
-        <p className="max-w-xl text-gray-300 mb-8">
-          I build scalable backend systems, AI-powered applications,
-          and modern web experiences with a strong focus on clean
-          architecture and real-world impact.
+        <p className="max-w-xl text-gray-700 dark:text-gray-300 mb-8">
+          I build AI-powered backend systems and intelligent automation
+          that scale in production, with a strong focus on reliability,
+          clean architecture, and real-world impact.
         </p>
+
 
         <div className="flex gap-4">
           <a
@@ -106,10 +107,10 @@ export default function Home() {
           {/* Left: About text */}
           <div className="text-gray-300 space-y-4">
             <p>
-              I am a Software Engineer with experience in building scalable backend
-              systems, AI-powered platforms, and cloud-native applications, with a
-              strong focus on Generative AI, LLM-powered services, agent-based
-              architectures, and RAG systems.
+              I am a Software Engineer experienced in building scalable backend
+              systems and AI-driven platforms, with hands-on work in Generative AI,
+              LLM-powered services, agent-based architectures, and RAG systems
+              deployed in real-world environments.
             </p>
 
             <p>
