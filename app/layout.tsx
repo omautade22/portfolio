@@ -4,6 +4,9 @@ import Navbar from "@/components/navbar";
 export const metadata = {
   title: "Om Autade | Portfolio",
   description: "Software Engineer & GenAI Developer",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({
